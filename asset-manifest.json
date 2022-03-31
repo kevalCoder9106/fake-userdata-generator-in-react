@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fake-userdata-generator-in-react/static/css/main.041fd04a.css",
+    "main.js": "/fake-userdata-generator-in-react/static/js/main.6320844b.js",
+    "static/js/787.5caab1bb.chunk.js": "/fake-userdata-generator-in-react/static/js/787.5caab1bb.chunk.js",
+    "index.html": "/fake-userdata-generator-in-react/index.html",
+    "main.041fd04a.css.map": "/fake-userdata-generator-in-react/static/css/main.041fd04a.css.map",
+    "main.6320844b.js.map": "/fake-userdata-generator-in-react/static/js/main.6320844b.js.map",
+    "787.5caab1bb.chunk.js.map": "/fake-userdata-generator-in-react/static/js/787.5caab1bb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.041fd04a.css",
+    "static/js/main.6320844b.js"
+  ]
+}
