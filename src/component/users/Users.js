@@ -10,7 +10,7 @@ const Users = (props) => {
             <div className='users-container'>
             {
                 usersdata
-                ?
+                ?/*  */
                     usersdata.map(userdata => {
                         return <Card userdata={userdata}/>
                     })
