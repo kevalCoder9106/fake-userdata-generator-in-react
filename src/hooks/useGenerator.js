@@ -19,7 +19,9 @@ const useGenerator = () => {
         // adding interval while fetching data 
         const interval = setInterval(() => {
             // fetching user data
-            fetch('https://api.namefake.com/random/random') 
+            fetch('https://api.namefake.com/random/random',{
+                headers:{"Access-Control-Allow-Origin":"*"}
+            }) 
             .then(response => response.json())
             .then(result => {
                 const data = {
